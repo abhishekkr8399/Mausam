@@ -1,0 +1,7 @@
+/* body{
+    background-image: url("https://source.unsplash.com/?sunrise,sunset,nature");
+} */
+body {
+    background: lightblue url("https://source.unsplash.com/random/1550x800?nature,sunrise,sunset");
+    background-size: auto;
+  }
